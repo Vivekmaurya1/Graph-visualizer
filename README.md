@@ -6,9 +6,6 @@
    This project is a DSA Visualizer built with React. It contains various algorithms related to sorting, graphs, trees, and General problems.
     <br />
     <br />
-    <a href="https://github.com/shivam6862/DSA-Visualizer/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/shivam6862/DSA-Visualizer/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,8 +31,6 @@
 This project is a DSA Visualizer built with React. It contains various algorithms related to sorting, graphs, trees, and General problems.
 The project provides a visual interface to help users better understand how these algorithms work.
 
-Team - `shivam6862`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -53,7 +48,7 @@ So as to run our project locally, you need to follow the steps below.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/shivam6862/DSA-Visualizer.git
+   https://github.com/Vivekmaurya1/Graph-visualizer.git
    ```
 2. Install NPM packages on both backend and frontend folders
    ```sh
@@ -86,7 +81,7 @@ The DSA Visualizer project includes the following features:<br/>
 
 - Game2048: The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.<br/>
 
-<a href="https://github.com/shivam6862/DSA-Visualizer"><img src="./public/image.png" style="border-radius:12px"></a>
+<a href="https://github.com/Vivekmaurya1/Graph-visualizer.git"><img src="./public/image.png" style="border-radius:12px"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,9 +106,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Linkedin - [@shivam-kumar](https://www.linkedin.com/in/shivam-kumar-14701b249/)
 
-Project Link: [https://github.com/shivam6862/DSA-Visualizer](https://github.com/shivam6862/DSA-Visualizer)
+Project Link: [https://github.com/Vivekmaurya1/Graph-visualizer.git](https://github.com/shivam6862/DSA-Visualizer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
